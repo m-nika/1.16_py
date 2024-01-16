@@ -11,3 +11,6 @@ class MyClass:
 number = 10
 result = MyClass.factorial(number)
 print(f"the factorial of {number} is: {result}")
+
+
+
